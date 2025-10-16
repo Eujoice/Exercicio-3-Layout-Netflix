@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="preto">#FF000000</color>
     <color name="branco">#FFFFFFFF</color>
 
@@ -9,4 +10,5 @@
     <color name="secundaria">#F70000</color>
     <color name="fundo">#171414</color>
     <color name="menunavegacao">@color/branco</color>
+
 </resources>

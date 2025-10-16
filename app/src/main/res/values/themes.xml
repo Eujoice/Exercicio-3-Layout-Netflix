@@ -7,7 +7,7 @@
         <item name="colorPrimaryVariant">@color/primariavariacao</item>
         <item name="colorSecondary">@color/secundaria</item>
         <item name="android:windowBackground">@color/fundo</item>
-        <item name="android:statusBarColor">@color/primariavariacao</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/primariavariacao</item>
 
     </style>
 
